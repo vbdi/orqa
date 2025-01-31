@@ -15,14 +15,8 @@ ORQA questions are hand-crafted to require complex, multi-step reasoning to iden
 
 
 ---
-## Download Code and Dataset
-
-
-
+## Download the dataset
 ```python
-!wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/code.zip
-!unzip -qo code.zip
-
 !wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/dataset.zip
 !unzip -qo dataset.zip
 ```
